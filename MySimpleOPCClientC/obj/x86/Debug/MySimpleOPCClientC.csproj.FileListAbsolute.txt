@@ -1,0 +1,22 @@
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\bin\Debug\MySimpleOPCClientC.exe
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\bin\Debug\MySimpleOPCClientC.pdb
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csprojAssemblyReference.cache
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\Interop.OPCAutomation.dll
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csproj.ResolveComReference.cache
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.Form1.resources
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.Properties.Resources.resources
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csproj.GenerateResource.cache
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csproj.CoreCompileInputs.cache
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.exe
+D:\Hadi Hidayat\C# Projects\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.pdb
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\bin\Debug\MySimpleOPCClientC.exe
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\bin\Debug\MySimpleOPCClientC.pdb
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csproj.ResolveComReference.cache
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.Form1.resources
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.Properties.Resources.resources
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.exe
+C:\Users\Administrator\Downloads\MySimpleOPCClientC\MySimpleOPCClientC\MySimpleOPCClientC\obj\x86\Debug\MySimpleOPCClientC.pdb
